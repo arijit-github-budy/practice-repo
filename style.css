@@ -2,4 +2,5 @@
     height : 400px;
     width : 400px;
     background: radial-gradient(rgb(255,0,0), green);
+    color : "red";
 }
